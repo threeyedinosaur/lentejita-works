@@ -1,7 +1,8 @@
 My first GitHub repo!
 Hello, fucking lovely Odin!
 
-Git basics:
+Git cheatsheet:
+
 git clone git@github.com:USER-NAME/REPOSITORY-NAME.git
 
 git push origin main
