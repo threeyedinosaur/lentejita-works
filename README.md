@@ -1,5 +1,6 @@
-My first GitHub repo!
-Hello, fucking lovely Odin!
+#My first GitHub repo!
+
+Hello, lovely Odin!
 
 Git cheatsheet:
 
